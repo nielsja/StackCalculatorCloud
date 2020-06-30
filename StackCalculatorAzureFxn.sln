@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackCalculatorAzureFxn", "StackCalculatorAzureFxn.csproj", "{48A27014-59CF-4021-A759-916879CEEBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A27014-59CF-4021-A759-916879CEEBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A27014-59CF-4021-A759-916879CEEBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A27014-59CF-4021-A759-916879CEEBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A27014-59CF-4021-A759-916879CEEBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC580222-9D92-4756-9B6A-2DF4EC7ACDF8}
+	EndGlobalSection
+EndGlobal
